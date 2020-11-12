@@ -1,7 +1,5 @@
 <?php
 
-use function PHPSTORM_META\map;
-
 /**
  * Plugin Name: Wikidata Query Service Embeder
  * Description: Allows embeding Wikidata Query Service URLs
