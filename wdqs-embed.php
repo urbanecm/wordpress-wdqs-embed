@@ -6,7 +6,7 @@
  * Version: 1.0
  * Author: Martin Urbanec
  * Author URI: https://urbanec.cz
- * License: GPLv3
+ * License: GPLv3 or later
 **/
 
 function wdqs_embed_handler( $matches, $attr, $url, $rawattr ) {
